@@ -5,7 +5,7 @@
 
 ᴀ ᴜꜱᴇʀʙᴏᴛ ᴡɪᴛʜ ʙᴇꜱᴛ ꜰᴇᴀᴛᴜʀᴇꜱ ,ꜱᴇᴄᴜʀɪᴛʏ ᴀɴᴅ ꜱᴏᴍᴇ ꜰᴜɴɴʏ ᴍᴏᴅꜱ ᴛᴏ ʙᴏᴏꜱᴛ ʏᴏᴜʀ ᴛᴇʟᴇɢʀᴀᴍ ᴇxᴘᴇʀɪᴇɴᴄᴇ
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/ItzSjDude/PikachuUserbot)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Recordu/PikachuUserbot)
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ## **By ItSjDude**
